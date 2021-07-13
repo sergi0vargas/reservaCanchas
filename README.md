@@ -6,5 +6,5 @@ A continuación, presentaremos distintos apartados de nuestro proyecto:
 
 # Nuestra idea
 
-Nuestra app consiste básicamente en la creación de una app que permita hacer reservas de distintos tipos de escenarios deportivos. 
+Nuestra idea consiste básicamente en la creación de una app que permita hacer reservas de distintos tipos de escenarios deportivos. 
 Nos enfocaremos primero en la reserva de canchas sintéticas.
