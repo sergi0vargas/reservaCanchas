@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">reservaCanchas</string>
+    <string name="app_name">MiCancha</string>
+    <string name="main_activity_title">MiCancha</string>
+    <string name="misReservas_title">Mis Reservas</string>
 </resources>
