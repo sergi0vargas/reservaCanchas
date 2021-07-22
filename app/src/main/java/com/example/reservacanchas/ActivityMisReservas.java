@@ -25,6 +25,7 @@ public class ActivityMisReservas extends AppCompatActivity {
         arrayList.add("Cancha 3");
         arrayList.add("Cancha 4");
         arrayList.add("Cancha 5");
+        arrayList.add("Cancha 6");
 
         ArrayAdapter arrayAdapter = new ArrayAdapter(this, android.R.layout.simple_expandable_list_item_1, arrayList);
 
